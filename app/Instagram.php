@@ -11,6 +11,7 @@ class Instagram extends Model
     //
     //
     //
+    //
     protected $table = 'instagram';
 
     protected $fillable = [
